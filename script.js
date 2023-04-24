@@ -158,6 +158,6 @@ function checkWinner(allBoxs) {
     layer.classList.add("layer");
     document.querySelector(".game-container").appendChild(layer);
   }
-  console.log(allBoxs);
-  console.log(!allBoxs.includes(""));
+ // console.log(allBoxs);
+ //console.log(!allBoxs.includes(""));
 }
